@@ -1,0 +1,51 @@
+# Symbolic License for MADESON Diagnostic Engine
+
+This diagnostic engine and its archetype canon are the intellectual and symbolic property of **Marc S. Skinner**.
+
+---
+
+## 🔒 Canonical Integrity
+
+- The archetype set is fixed at **20** entries.
+- All names, descriptions, and dimensional configurations are **authored and exact**.
+- No substitutions, paraphrasing, or symbolic drift are permitted.
+- Compound feedback logic must preserve canonical clarity.
+
+---
+
+## 🧠 Usage Terms
+
+You may:
+- Use the diagnostic engine for personal, educational, or therapeutic exploration.
+- Share the tool with attribution to Marc S. Skinner.
+- Build interfaces or integrations **only** if they preserve the exact archetype canon.
+
+You may not:
+- Alter, rename, or paraphrase any archetype.
+- Use placeholder archetypes or substitute symbolic logic.
+- Commercialize the engine without explicit permission.
+
+---
+
+## 🧬 Expansion Clause
+
+Expansion of the archetype canon is permitted **only** through:
+- Large-scale simulation
+- Empirical justification
+- Symbolic lineage alignment
+
+All expansions must be reviewed and approved by the canonical steward.
+
+---
+
+## 📜 Attribution
+
+If you use or reference MADESON, include:
+
+> "Based on the MADESON Diagnostic Engine by Marc S. Skinner. Used with respect to canonical integrity."
+
+---
+
+## 🧭 Contact
+
+For collaboration, licensing, or expansion proposals, contact Marc directly.
